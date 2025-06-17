@@ -12,7 +12,7 @@ Das Tool bietet die Möglichkeit, verschiedene Tests auf E-Mail-Server durchzuf�
 2. **Domain-Spoofing (z. B. admin@ihredomain.com)**  
    - Simuliert das Spoofen einer E-Mail-Adresse innerhalb deiner eigenen Domain. Dies hilft zu überprüfen, ob der Mailserver korrekt gegen Domain-Spoofing geschützt ist.
 
-3. **Externe Domain (z. B. security@gmail.com)**  
+3. **Externe Domain (z. B. security@knowndomains-xyz.com)**  
    - Testet die E-Mail-Sicherheit mit externen Domains und stellt sicher, dass die E-Mail-Authentifizierung auch für eingehende E-Mails von externen Absendern funktioniert.
 
 4. **Benutzerdefinierte Absender-Adresse**  
